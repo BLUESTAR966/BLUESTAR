@@ -1,11 +1,9 @@
 <header class="hero-section">
-  <div class="hero-content">
-    <a href="#products" class="cta-button">WELLCOME</a>
+  <div class="header-overlay">
+    <p class="brand">WELLCOME</p>
+    <div class="divider-curve"></div>
   </div>
-</header>
-
-
-
+</div
 
 
 
@@ -29,6 +27,7 @@
     </motion.h1>
     <p className="mb-6 text-lg">Premium organic herbs delivered straight to your destination.</p>
     <Button className="rounded-2xl px-6 py-2">Shop Now</Button
+  
                                                         
   <section id="products" className="p-10">
     <h1 className="text-3xl font-semibold text-center mb-10">Our Products</h1>
